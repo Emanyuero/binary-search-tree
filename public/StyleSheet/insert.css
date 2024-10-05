@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient( red, orange, yellow, green, indigo, violet);
+}
+.search-btn{
+    color: #ffff;
+    font-size: 20px;
+}
+.search-btn:hover{
+    color: #dddddd;
+    border-bottom: 1px solid #ffffff;
+}
